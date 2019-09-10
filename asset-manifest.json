@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-closure/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-closure/static/js/main.fcc1d8f9.chunk.js",
+    "main.js.map": "/react-closure/static/js/main.fcc1d8f9.chunk.js.map",
+    "runtime~main.js": "/react-closure/static/js/runtime~main.79444811.js",
+    "runtime~main.js.map": "/react-closure/static/js/runtime~main.79444811.js.map",
+    "static/js/2.c7bfc1d3.chunk.js": "/react-closure/static/js/2.c7bfc1d3.chunk.js",
+    "static/js/2.c7bfc1d3.chunk.js.map": "/react-closure/static/js/2.c7bfc1d3.chunk.js.map",
+    "index.html": "/react-closure/index.html",
+    "precache-manifest.267d32062fb5787b0c9e28eaeaa8e011.js": "/react-closure/precache-manifest.267d32062fb5787b0c9e28eaeaa8e011.js",
+    "service-worker.js": "/react-closure/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-closure/static/css/main.2cce8147.chunk.css.map"
+  }
+}
